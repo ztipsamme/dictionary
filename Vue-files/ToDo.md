@@ -12,8 +12,9 @@
 [X] 1 component recieving a prop-key (Prop in SearchResult is used in SearchView)
 [X] 1 component using sass in it's file though the style-element (SearchResult.vue)
 
-[X] Publish on GitHub
-[X] Publish on GitHub Pages
+[ ] Publish on GitHub
+[ ] Publish on GitHub Pages
+[ ] Publish on GitHub Pages
 [ ] PDF with source code to GitHub ang GitHub Pages
 
 ##VG
